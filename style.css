@@ -1,0 +1,51 @@
+html {
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+    color: #444;
+    font-weight: 100;
+    font-style: normal;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-transform: uppercase;
+    line-height: 1em;
+    text-align: center;
+    white-space: nowrap;
+    background-color: rgba(123, 16, 0, 0.7);
+    color: #dbc27d;
+    font-size: 2rem;
+}
+
+strong {
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: default;
+}
+
+.emphasis {
+    font-style: italic;
+}
+
+.important {
+    font-weight: bold;
+}
+
+.link {
+    color: blue;
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    font-size: 1rem;
+}
+
+div {
+    font-size: 1.25rem;
+}
